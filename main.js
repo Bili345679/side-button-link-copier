@@ -8,6 +8,7 @@
 // @grant        GM_setClipboard
 // @grant        GM_notification
 // @run-at       document-idle
+// @license      MIT
 // ==/UserScript==
 
 (function() {
